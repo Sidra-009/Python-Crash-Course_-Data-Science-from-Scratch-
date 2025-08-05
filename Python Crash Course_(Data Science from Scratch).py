@@ -1,4 +1,4 @@
-# %%
+# %
 for i in [1,2,3]: 
     print(i) # print 1 
     for j in [1,2,3]:
@@ -219,4 +219,5 @@ print(count)
 #COUNTERS
 ''' a special dictionary designed specifically to count hashable objects like strings, numbers, tuples, etc.'''
 from collections import Counter
+
 

@@ -32,4 +32,4 @@ git clone https://github.com/Sidra-009/python-from-scratch.git
 cd python-from-scratch
 
 # Run a Python file
-python filename.py
+python pythoncrashcourse.py

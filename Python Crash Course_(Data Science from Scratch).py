@@ -215,7 +215,7 @@ for texts in text:
     count[text]+=1
 print(count)
 
-# %%
+#%
 #COUNTERS
 ''' a special dictionary designed specifically to count hashable objects like strings, numbers, tuples, etc.'''
 

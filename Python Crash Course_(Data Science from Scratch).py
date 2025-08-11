@@ -1,5 +1,5 @@
 # %
-for i in [1,2,3]: 
+for i in [1,2,3]:
     print(i) # print 1 
     for j in [1,2,3]:
        print(j) # print 1

@@ -218,6 +218,6 @@ print(count)
 # %%
 #COUNTERS
 ''' a special dictionary designed specifically to count hashable objects like strings, numbers, tuples, etc.'''
-from collections import Counter
+
 
 

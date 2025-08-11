@@ -47,9 +47,9 @@ Sidra(2)
 # %%
 def full_name(first_name="Sidra",last_name="Bibi"):
     return first_name+" "+last_name
-full_name("Sidra","bibi")
+full_name("Sidra","Saqlain")
 full_name("Sidra")
-full_name(last_name="Bibi")
+full_name(last_name="Saqlain")
 
 # %%
 #Strings
